@@ -91,3 +91,6 @@ dist/
 nbdist/
 nbactions.xml
 .nb-gradle/
+
+.idea/
+*.iml
